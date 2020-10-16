@@ -35,9 +35,12 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 #theme: minima
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
+# Theme settings
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
 
 #logo: "/assets/images/puce_ceal.png"
 #logo: "/assets/images/just-the-docs.png"
