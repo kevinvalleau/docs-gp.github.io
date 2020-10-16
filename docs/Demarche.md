@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Présentation
-nav_order: 1
+nav_order: 2
 ---
 
 # Origine de la démarche "DocsAsCode"

@@ -2,7 +2,8 @@ title: DocsAsCode
 email: kevin.valleau@cgi.com
 description: >
   Réalisation d'une document en DocsAsCode avec Jekyll est GitHub Pages.
-
+baseurl: ""
+url: "http://localhost:4000"
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
