@@ -6,7 +6,7 @@ description: "Page d'accueil de base"
 permalink: /
 ---
 
-# Se concentrer sur écrire de la documentation
+# Se concentrer sur l'écriture de la documentation
 {: .fs-9 }
 Ce site est généré à partir de Markdown avec Jekyll et le thème Just the
 Docs et publié sur GitHub Pages.
